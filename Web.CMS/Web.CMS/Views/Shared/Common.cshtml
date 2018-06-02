@@ -1,0 +1,34 @@
+﻿@model Web.CMS.Areas.Contact.Models.Contact
+
+
+<div class="row"></div>
+<div class="row">
+    <div width="col-md-12">First Name:  @Html.TextBoxFor(m => m.FirstName, "", new {@class = "input" }) </div>
+</div>
+
+<div width="col-md-12">
+    Last Name:
+    @Html.TextBoxFor(m => m.LastName, "", new { @class = "input" })
+</div>
+
+<div width="col-md-12">
+    Email:
+    @Html.TextBoxFor(m => m.Email, "", new { @class = "input" })
+</div>
+<div width="col-md-12">
+    Phone Number:
+    @Html.TextBoxFor(m => m.PhoneNumber, "", new { @class = "input" })
+</div>
+
+<div width="col-md-12">
+    Status:
+    @Html.DropDownListFor(m => m.Status, new List<SelectListItem>
+               { new SelectListItem{Text="Male", Value="M"},
+                 new SelectListItem{Text="Female", Value="F"}}, "Please select", new { @class = "select" })
+</div>
+
+<hr />
+<div class="col-md-12">
+    <input type="submit" value="Submit" class="btn-primary" />
+</div>
+             

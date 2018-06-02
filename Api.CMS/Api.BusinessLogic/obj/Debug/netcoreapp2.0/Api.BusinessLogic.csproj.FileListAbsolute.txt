@@ -1,0 +1,13 @@
+C:\Users\chandra13251\source\repos\Api.CAPITA\Api.BusinessLogic\obj\Debug\netcoreapp2.0\Api.BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\chandra13251\source\repos\Api.CAPITA\Api.BusinessLogic\obj\Debug\netcoreapp2.0\Api.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\chandra13251\source\repos\Api.CAPITA\Api.BusinessLogic\obj\Debug\netcoreapp2.0\Api.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\chandra13251\source\repos\Api.CAPITA\Api.BusinessLogic\obj\Debug\netcoreapp2.0\Api.BusinessLogic.AssemblyInfo.cs
+C:\Users\chandra13251\source\repos\Api.CAPITA\Api.BusinessLogic\bin\Debug\netcoreapp2.0\Api.BusinessLogic.deps.json
+C:\Users\chandra13251\source\repos\Api.CAPITA\Api.BusinessLogic\bin\Debug\netcoreapp2.0\Api.BusinessLogic.dll
+C:\Users\chandra13251\source\repos\Api.CAPITA\Api.BusinessLogic\bin\Debug\netcoreapp2.0\Api.BusinessLogic.pdb
+C:\Users\chandra13251\source\repos\Api.CAPITA\Api.BusinessLogic\bin\Debug\netcoreapp2.0\Api.Database.dll
+C:\Users\chandra13251\source\repos\Api.CAPITA\Api.BusinessLogic\bin\Debug\netcoreapp2.0\Api.Database.pdb
+C:\Users\chandra13251\source\repos\Api.CAPITA\Api.BusinessLogic\obj\Debug\netcoreapp2.0\Api.BusinessLogic.csproj.CopyComplete
+C:\Users\chandra13251\source\repos\Api.CAPITA\Api.BusinessLogic\obj\Debug\netcoreapp2.0\Api.BusinessLogic.dll
+C:\Users\chandra13251\source\repos\Api.CAPITA\Api.BusinessLogic\obj\Debug\netcoreapp2.0\Api.BusinessLogic.pdb
+C:\Users\chandra13251\source\repos\Api.CAPITA\Api.BusinessLogic\bin\Debug\netcoreapp2.0\Api.Database.dll.config

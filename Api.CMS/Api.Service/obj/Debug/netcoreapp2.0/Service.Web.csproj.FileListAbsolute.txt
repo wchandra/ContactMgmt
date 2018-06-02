@@ -1,0 +1,9 @@
+C:\Users\chandra13251\source\repos\SampleWebApi\Service.Web\bin\Debug\netcoreapp2.0\Service.Web.deps.json
+C:\Users\chandra13251\source\repos\SampleWebApi\Service.Web\bin\Debug\netcoreapp2.0\Service.Web.dll
+C:\Users\chandra13251\source\repos\SampleWebApi\Service.Web\bin\Debug\netcoreapp2.0\Service.Web.pdb
+C:\Users\chandra13251\source\repos\SampleWebApi\Service.Web\obj\Debug\netcoreapp2.0\Service.Web.csprojResolveAssemblyReference.cache
+C:\Users\chandra13251\source\repos\SampleWebApi\Service.Web\obj\Debug\netcoreapp2.0\Service.Web.csproj.CoreCompileInputs.cache
+C:\Users\chandra13251\source\repos\SampleWebApi\Service.Web\obj\Debug\netcoreapp2.0\Service.Web.AssemblyInfoInputs.cache
+C:\Users\chandra13251\source\repos\SampleWebApi\Service.Web\obj\Debug\netcoreapp2.0\Service.Web.AssemblyInfo.cs
+C:\Users\chandra13251\source\repos\SampleWebApi\Service.Web\obj\Debug\netcoreapp2.0\Service.Web.dll
+C:\Users\chandra13251\source\repos\SampleWebApi\Service.Web\obj\Debug\netcoreapp2.0\Service.Web.pdb

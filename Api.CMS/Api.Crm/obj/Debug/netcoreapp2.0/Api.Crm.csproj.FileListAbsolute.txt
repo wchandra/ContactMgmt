@@ -1,0 +1,9 @@
+C:\Users\chandra13251\source\repos\Api.CAPITA\Api.Crm\bin\Debug\netcoreapp2.0\Api.Crm.deps.json
+C:\Users\chandra13251\source\repos\Api.CAPITA\Api.Crm\bin\Debug\netcoreapp2.0\Api.Crm.dll
+C:\Users\chandra13251\source\repos\Api.CAPITA\Api.Crm\bin\Debug\netcoreapp2.0\Api.Crm.pdb
+C:\Users\chandra13251\source\repos\Api.CAPITA\Api.Crm\obj\Debug\netcoreapp2.0\Api.Crm.csproj.CoreCompileInputs.cache
+C:\Users\chandra13251\source\repos\Api.CAPITA\Api.Crm\obj\Debug\netcoreapp2.0\Api.Crm.AssemblyInfoInputs.cache
+C:\Users\chandra13251\source\repos\Api.CAPITA\Api.Crm\obj\Debug\netcoreapp2.0\Api.Crm.AssemblyInfo.cs
+C:\Users\chandra13251\source\repos\Api.CAPITA\Api.Crm\obj\Debug\netcoreapp2.0\Api.Crm.dll
+C:\Users\chandra13251\source\repos\Api.CAPITA\Api.Crm\obj\Debug\netcoreapp2.0\Api.Crm.pdb
+C:\Users\chandra13251\source\repos\Api.CAPITA\Api.Crm\obj\Debug\netcoreapp2.0\Api.Crm.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\chandra13251\source\repos\Web.CMS\Web.CMS\bin\Debug\netcoreapp2.0\Web.CMS.deps.json
+C:\Users\chandra13251\source\repos\Web.CMS\Web.CMS\bin\Debug\netcoreapp2.0\Web.CMS.runtimeconfig.json
+C:\Users\chandra13251\source\repos\Web.CMS\Web.CMS\bin\Debug\netcoreapp2.0\Web.CMS.runtimeconfig.dev.json
+C:\Users\chandra13251\source\repos\Web.CMS\Web.CMS\bin\Debug\netcoreapp2.0\Web.CMS.dll
+C:\Users\chandra13251\source\repos\Web.CMS\Web.CMS\bin\Debug\netcoreapp2.0\Web.CMS.pdb
+C:\Users\chandra13251\source\repos\Web.CMS\Web.CMS\obj\Debug\netcoreapp2.0\Web.CMS.csproj.CoreCompileInputs.cache
+C:\Users\chandra13251\source\repos\Web.CMS\Web.CMS\obj\Debug\netcoreapp2.0\Web.CMS.AssemblyInfoInputs.cache
+C:\Users\chandra13251\source\repos\Web.CMS\Web.CMS\obj\Debug\netcoreapp2.0\Web.CMS.AssemblyInfo.cs
+C:\Users\chandra13251\source\repos\Web.CMS\Web.CMS\obj\Debug\netcoreapp2.0\Web.CMS.csproj.CopyComplete
+C:\Users\chandra13251\source\repos\Web.CMS\Web.CMS\obj\Debug\netcoreapp2.0\Web.CMS.dll
+C:\Users\chandra13251\source\repos\Web.CMS\Web.CMS\obj\Debug\netcoreapp2.0\Web.CMS.pdb
+C:\Users\chandra13251\source\repos\Web.CMS\Web.CMS\obj\Debug\netcoreapp2.0\Web.CMS.csprojResolveAssemblyReference.cache

@@ -1,0 +1,101 @@
+﻿
+@model Web.CMS.Areas.Contact.Models.Contact
+@{
+    Layout = "_Layout";
+}
+<script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.2.0.min.js"></script>
+<script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.16.0/jquery.validate.min.js"></script>
+<script src="https://ajax.aspnetcdn.com/ajax/jquery.validation.unobtrusive/3.2.6/jquery.validate.unobtrusive.min.js"></script>
+<div class="container">
+    <div class="col-md-12">
+        @using (Html.BeginForm("Edit", "Contact", FormMethod.Post))
+        {
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4"></div>
+                    <div class="col-md-8">
+                        <b>Edit Contact</b>
+                    </div>
+                </div>
+            </div>
+            <br />
+            <div class="row"></div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-1"></div>
+                    <div class="col-md-3">
+                        First Name:
+                    </div>
+                    <div class="col-md-4 ">@Html.TextBoxFor(m => m.FirstName, "", new { @class = "form-control", @maxlength = 50 }) </div>
+                    @Html.ValidationMessageFor(d => d.FirstName, null, new { @class = "text-danger" })
+                </div>
+            </div>
+            <br />
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-1"></div>
+                    <div class="col-md-3">
+                        Last Name:
+                    </div>
+                    <div class="col-md-4">
+                        @Html.TextBoxFor(m => m.LastName, "", new { @class = "form-control", @maxlength = 50 })
+                    </div>
+                    @Html.ValidationMessageFor(d => d.LastName, null, new { @class = "text-danger" })
+                </div>
+            </div>
+            <br />
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-1"></div>
+                    <div class="col-md-3">
+                        Email:
+                    </div>
+                    <div class="col-md-4">
+                        @Html.TextBoxFor(m => m.Email, "", new { @class = "form-control",  @maxlength = 30 })
+                    </div>
+                    @Html.ValidationMessageFor(d => d.Email, null, new { @class = "text-danger" })
+                </div>
+            </div>
+            <br />
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-1"></div>
+                    <div class="col-md-3">
+                        Phone Number:
+                    </div>
+                    <div class="col-md-4">
+                        @Html.TextBoxFor(m => m.PhoneNumber, "", new { @class = "form-control", @maxlength = 10 })
+                    </div>
+                    @Html.ValidationMessageFor(d => d.PhoneNumber, null, new { @class = "text-danger" })
+                </div>
+            </div>
+            <br />
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-1"></div>
+                    <div class="col-md-3">
+                        Status:
+                    </div>
+                    <div class="col-md-4">
+                        @Html.DropDownListFor(m => m.SelectedStatus, new List<SelectListItem>
+{ new SelectListItem{Text="Active", Value="1"},
+new SelectListItem{Text="Inactive", Value="2"}}, "--Please select--", new { @class = "form-control" })
+                    </div>
+                    @Html.ValidationMessageFor(d => d.SelectedStatus, null, new { @class = "text-danger" })
+                </div>
+            </div>
+            <br />
+            <div class="col-md-1"></div>
+            <div class="col-md-4"></div>
+            <div class="col-md-4">
+                <input type="submit" value="Submit" class="btn-primary" />
+            </div>
+
+        }
+
+    </div>
+
+</div>
+
+
+

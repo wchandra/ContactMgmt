@@ -1,0 +1,75 @@
+﻿
+@model IEnumerable<Web.CMS.Areas.Contact.Models.Contact>
+@{
+    Layout = "_Layout";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <table cellpadding="0" cellspacing="0" class="table table-bordered">
+        <tr>
+            <th colspan="2" align="center">Contact List</th>
+        </tr>
+    </table>
+    @using (Html.BeginForm("Create", "Contact", FormMethod.Get))
+    {
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <td class="col-md-2" align="center"><b>First Name</b></td>
+                    <td class="col-md-2" align="center"><b>Last Name</b></td>
+                    <td class="col-md-2" align="center"><b>Email</b></td>
+                    <td class="col-md-2" align="center"><b>Phone Number</b></td>
+                    <td class="col-md-2" align="center"><b>Status</b></td>
+                    <td class="col-md-2" align="center"><b>Action</b></td>
+                </tr>
+            </thead>       
+            @foreach (var item in Model)
+            {
+            <tr>
+                <td class="col-md-2" align="center">
+                    @item.FirstName
+                </td>
+
+                <td class="col-md-2" align="center">
+                    @item.LastName
+                </td>
+
+                <td class="col-md-2" align="center">
+                    @item.Email
+                </td>
+
+                <td class="col-md-2" align="center">
+                    @item.PhoneNumber
+                </td>
+
+                <td class="col-md-2" align="center">
+                    @item.SelectedStatus
+                </td>
+                <td class="col-md-2" align="center">
+                    @Html.ActionLink("View/Edit", "Edit", "Contact", new { id = item.Id })
+                </td>
+                <td class="col-md-2" align="center">
+                    @Html.ActionLink("Delete", "Delete", "Contact", new { id = item.Id }, new { onclick = "return Confirm();"})
+                </td>
+            </tr>
+            }
+        </table>
+        <script>
+            function Confirm() {
+                if (confirm('Are you sure you want to delete the record ?'))
+                    return true;
+
+                return false;
+            }
+        </script>
+    }
+</body>
+</html>
+
+
+

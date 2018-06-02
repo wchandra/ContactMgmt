@@ -1,0 +1,13 @@
+C:\Users\chandra13251\source\repos\Api.CAPITA\Api.Database\bin\Debug\netcoreapp2.0\Api.Database.deps.json
+C:\Users\chandra13251\source\repos\Api.CAPITA\Api.Database\bin\Debug\netcoreapp2.0\Api.Database.dll
+C:\Users\chandra13251\source\repos\Api.CAPITA\Api.Database\bin\Debug\netcoreapp2.0\Api.Database.pdb
+C:\Users\chandra13251\source\repos\Api.CAPITA\Api.Database\obj\Debug\netcoreapp2.0\Api.Database.csprojResolveAssemblyReference.cache
+C:\Users\chandra13251\source\repos\Api.CAPITA\Api.Database\obj\Debug\netcoreapp2.0\Api.Database.csproj.CoreCompileInputs.cache
+C:\Users\chandra13251\source\repos\Api.CAPITA\Api.Database\obj\Debug\netcoreapp2.0\Api.Database.AssemblyInfoInputs.cache
+C:\Users\chandra13251\source\repos\Api.CAPITA\Api.Database\obj\Debug\netcoreapp2.0\Api.Database.AssemblyInfo.cs
+C:\Users\chandra13251\source\repos\Api.CAPITA\Api.Database\obj\Debug\netcoreapp2.0\Api.Database.dll
+C:\Users\chandra13251\source\repos\Api.CAPITA\Api.Database\obj\Debug\netcoreapp2.0\Api.Database.pdb
+C:\Users\chandra13251\source\repos\Api.CAPITA\Api.Database\bin\Debug\netcoreapp2.0\Api.Database.dll.config
+C:\Users\chandra13251\source\repos\Api.CAPITA\Api.Database\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Configuration.dll
+C:\Users\chandra13251\source\repos\Api.CAPITA\Api.Database\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Configuration.xml
+C:\Users\chandra13251\source\repos\Api.CAPITA\Api.Database\obj\Debug\netcoreapp2.0\Api.Database.csproj.CopyComplete
